@@ -1,0 +1,3 @@
+/Users/mznagy/CLionProjects/Lab5_OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mznagy/CLionProjects/Lab5_OS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mznagy/CLionProjects/Lab5_OS/cmake-build-debug/CMakeFiles/Lab5_OS.dir
